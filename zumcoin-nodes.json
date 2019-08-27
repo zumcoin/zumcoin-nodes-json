@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "ZumCoin Remote Node-1",
+      "url": "sn1.zumcoin.org",
+      "port": 17935,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "ZumCoin Remote Node-2",
+      "url": "sn2.zumcoin.org",
+      "port": 17935,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "ZumCoin Remote Node-3",
+      "url": "sn3.zumcoin.org",
+      "port": 17935,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
